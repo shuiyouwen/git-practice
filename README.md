@@ -1,5 +1,3 @@
 # git-practice
-当前分支是feacher1
-merge操作符练习
-我在改点东西
-在branch1上在前进
+当前分支是feacher2
+练习rebase操作
